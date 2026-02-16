@@ -1,0 +1,12 @@
+src/
+tsconfig.json
+esbuild.config.js
+node_modules/
+assets/
+.idea/
+
+.prettierrc
+.prettierignore
+.gitignore
+
+tests/
